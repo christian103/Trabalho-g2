@@ -1,0 +1,10 @@
+---------------- Tela de Cadastro -------------
+	
+	Digite o nome do Filme: 
+
+	Digite o código do Filme:
+
+        I- Ir para a tela inicial
+
+
+---------------- Filme Adicionado com Sucesso ---

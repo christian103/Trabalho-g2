@@ -1,0 +1,7 @@
+-------- Menu Inicial--------------------------
+	
+	I-   Cadastrar Filme
+	II-  Editar Filme
+	III- Procurar Filme
+	IV-  Relatório
+	V-   Buscar informações dos filmes  

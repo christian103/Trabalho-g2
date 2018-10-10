@@ -1,0 +1,12 @@
+------------------- Buscar Filme --------------
+
+	I- Buscar filme por nome
+	II- Buscar filme por código
+        III- Ir para a tela inicial
+
+
+
+-------- Filme: "Senhor dos Anéis"------------
+-------- Situação: "Locado"       ------------
+-------- Código:   "123"          ------------
+-------- Multa:    "R$ 0,00       ------------
